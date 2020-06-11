@@ -1,4 +1,5 @@
-NestJS Udemy Course (Backend)
-Title: NestJS Zero to Hero - Modern TypeScript Back-end Development
+# NestJS Udemy Course (Backend)
 
-Link: https://www.udemy.com/course/nestjs-zero-to-hero/
+**Title**: NestJS Zero to Hero - Modern TypeScript Back-end Development
+
+**Link**: https://www.udemy.com/course/nestjs-zero-to-hero/
