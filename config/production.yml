@@ -1,4 +1,4 @@
 server:
-  origin: http://udemy-nestjs-frontend.s3-website.us-east-2.amazonaws.com
+  origin: http://udemy-nestjs-frontend-bucket.s3-website.us-east-2.amazonaws.com
 db:
   synchronize: false
